@@ -1,0 +1,42 @@
+{
+  "expenses": [
+    {
+      "amount": 50.0,
+      "category": "food",
+      "description": "",
+      "date": "2026-02-04",
+      "time": "15:07"
+    },
+    {
+      "amount": 50.0,
+      "category": "food",
+      "description": "",
+      "date": "2026-02-04",
+      "time": "22:46"
+    },
+    {
+      "amount": 50.0,
+      "category": "food",
+      "description": "",
+      "date": "2026-02-05",
+      "time": "00:19"
+    },
+    {
+      "amount": 50.0,
+      "category": "food",
+      "description": "",
+      "date": "2026-02-06",
+      "time": "10:23"
+    }
+  ],
+  "schedule": [],
+  "study_sessions": [
+    {
+      "subject": "Study Session",
+      "duration": "60 minutes",
+      "date": "2026-02-05",
+      "time": "00:20",
+      "notes": "Log study: Python for 60 minutes"
+    }
+  ]
+}
